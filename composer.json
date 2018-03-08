@@ -1,0 +1,29 @@
+{
+  "name": "vijaycs85/microservices_base",
+  "description": "Base module to provide necessary components to setup microservices.",
+  "type": "drupal-module",
+  "homepage": "https://github.com/vijaycs85/microservices_base",
+  "authors": [
+    {
+      "name": "Vijaya Chandran Mani",
+      "homepage": "https://www.vijaycs85.com",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/vijaycs85/microservices_base/issues",
+    "irc": "irc://irc.freenode.org/drupal-contribute",
+    "source": "https://github.com/vijaycs85/microservices_base"
+  },
+  "license": "GPL-2.0+",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/simple_oauth": "^1",
+    "drupal/service_description": "^1",
+    "drupal/jsonapi": "^1",
+    "drupal/jsonapi_extras": "^1"
+  },
+  "require-dev": {
+    "vijaycs85/drupal-quality-checker": "^1"
+  }
+}
