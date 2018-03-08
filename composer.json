@@ -18,9 +18,9 @@
   "license": "GPL-2.0+",
   "minimum-stability": "dev",
   "require": {
-    "drupal/simple_oauth": "^1",
+    "drupal/simple_oauth": "^3",
     "drupal/service_description": "^1",
-    "drupal/jsonapi": "^3",
+    "drupal/jsonapi": "^1",
     "drupal/jsonapi_extras": "^1"
   },
   "require-dev": {
